@@ -11,7 +11,7 @@ Is Magist's delivery process effecient?
 **Context:**  
 Eniac focuses on premium tech products. We explored Magist’s data to assess:
 
-- Tech product performance
+- Magist's tech product performance
 - Customer purchasing trends
 - Delivery efficiency
 
