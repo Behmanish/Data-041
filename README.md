@@ -43,3 +43,5 @@ These findings suggest a **strategic misalignment** between Eniac’s premium fo
 ## Team
 
 This project was completed as part of a **project-based learning exercise**, by **Anish Shenji and Ajmal Behmanish**, enabling us to apply theoretical and practical knowledge in real-world decision-making.
+
+For more information about the project please [ajmal.behmanish@gmail.com](mailto:ajmal.behmanish@gmail.com).
